@@ -1,5 +1,4 @@
-﻿using System.Data.Entity;
-using APBD9.Data;
+﻿using APBD9.Data;
 using APBD9.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;

@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f3fd0b-98b7-4642-ba9e-9c170f76c1ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication2/Controllers/ClientController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication2/Controllers/ClientController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication2/Controllers/TripsControllers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication2/Controllers/TripsControllers.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication2/Data/ApbdContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication2/Data/ApbdContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication2/WebApplication2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication2/WebApplication2.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="70f3fd0b-98b7-4642-ba9e-9c170f76c1ae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717802158917</updated>
-      <workItem from="1717802160846" duration="986000" />
+      <workItem from="1717802160846" duration="1312000" />
     </task>
     <servers />
   </component>
