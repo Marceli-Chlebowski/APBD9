@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using APBD9.Models;
 using Microsoft.EntityFrameworkCore;
+using DbContext = System.Data.Entity.DbContext;
 
 namespace APBD9.Data;
 
